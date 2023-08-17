@@ -1,13 +1,13 @@
 ---
-title: Register your node
+title: How to Register Your Node
 hide_table_of_contents: false
 ---
 
 # Register your node
 
-Follow the instructions of this video to setup and register your node using the Diva Operator web UI.
+Follow the instructions below to setup and register your node using the Diva Operator web UI.
 
-To do that, you will need to access to the Diva operator web UI in any of two ways:
+You will need to access to the Diva operator web UI in any of two ways:
 
 - Local: http://localhost
 - Remote: `http://YOUR_NODE_PUBLIC_IP`

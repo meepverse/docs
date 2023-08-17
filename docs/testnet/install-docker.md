@@ -5,7 +5,7 @@ hide_table_of_contents: false
 
 #  Install docker
 
-The [testnet Github repository](https://github.com/shamirlabs/diva-alpha-net) contains docker compose files that can be run using [docker](https://www.docker.com/). Please, [install docker](https://docs.docker.com/engine/install/) first if you want to join the Diva alpha net. Keep in mind that currently we provide only `linux/amd64` images.
+The [testnet Github repository](https://github.com/shamirlabs/diva-alpha-net) contains Docker Compose files that can be run using [docker](https://www.docker.com/). Please, [install docker](https://docs.docker.com/engine/install/) first if you want to join the Diva Operator testnet. Keep in mind that currently we provide only `linux/amd64` images.
 
 You can also use the following commands to install docker in a linux machine:
 
